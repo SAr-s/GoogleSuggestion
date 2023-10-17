@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.outer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.image1 {
+  height: 15vh;
+  width: 22vw;
+}
+
+.card-container {
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.input {
+  height: 5vh;
+  border: none;
+  outline: none;
+  width: 20vw;
+  font-size: 30px;
+}
+.image {
+  height: 35px;
+  width: 35px;
+  margin-right: 20px;
+}
+
+.suggestion-container {
+  display: flex;
+  flex-direction: column;
+}

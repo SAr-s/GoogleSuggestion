@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.suggestion-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+}
+.suggestion-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.suggestion {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
